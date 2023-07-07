@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Alperen
 
 # 💫 About Me:
-🔭 I’m currently working on to graduate the Full Stack Development<br>🌱 Actually I’m learning JavaScript, React, Node.js and Python<br>💬 Ask me about Trading Forex and Stucks and Cryptocoins<br>⚡ Fun fact: I would like to chill next to a silverback Gorilla in his peaceful moment ..
+🔭 I’m currently working on to graduate the Full Stack Development<br>🌱 Actually I’m learning JavaScript, React, Node.js and Python<br>💬 Ask me about Trading Forex, Stucks and Cryptocoins<br>⚡ Fun fact: I would like to chill next to a silverback Gorilla in his peaceful moment ..
 
 
 ## 🌐 Socials:
